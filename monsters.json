@@ -3085,7 +3085,7 @@
     },
     {
         "id": 335,
-        "name": "Ma\u00eetre pandore",
+        "name": "Hanshi",
         "zones": [],
         "step": 18,
         "type": "boss"
@@ -3127,7 +3127,7 @@
     },
     {
         "id": 341,
-        "name": "Touchparak",
+        "name": "Founamboul",
         "zones": [],
         "step": 19,
         "type": "boss"
@@ -3169,7 +3169,7 @@
     },
     {
         "id": 347,
-        "name": "P\u00e9ki p\u00e9ki",
+        "name": "Haute Truche",
         "zones": [],
         "step": 19,
         "type": "boss"
